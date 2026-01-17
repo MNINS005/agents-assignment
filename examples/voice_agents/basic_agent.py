@@ -18,7 +18,7 @@ from livekit.agents import (
 from livekit.agents.llm import function_tool
 from livekit.plugins import silero
 from livekit.plugins.turn_detector.multilingual import MultilingualModel
-from interrupt_handler import should_interrupt
+from examples.voice_agents.interrupt_handler import should_interrupt
 
 agent_is_speaking = False
 pending_interrupt = False
