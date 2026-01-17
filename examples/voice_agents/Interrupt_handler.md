@@ -96,3 +96,6 @@ The following test output demonstrates that the agent:
 - interrupts immediately on semantic commands
 
 ![Interruption logic test output](docs\Interrupt_testing_results.jpeg)
+
+
+try
